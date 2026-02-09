@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Adv Pro\\WinsockClientRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAB1B8E-95CC-4121-BDDF-EAE8FB3C56AA}|WinsockClientRPG.vcxproj|F:\\Adv Pro\\WinsockClientRPG\\WinsockServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADAB1B8E-95CC-4121-BDDF-EAE8FB3C56AA}|WinsockClientRPG.vcxproj|solutionrelative:WinsockServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinsockServer.cpp",
+              "DocumentMoniker": "F:\\Adv Pro\\WinsockClientRPG\\WinsockServer.cpp",
+              "RelativeDocumentMoniker": "WinsockServer.cpp",
+              "ToolTip": "F:\\Adv Pro\\WinsockClientRPG\\WinsockServer.cpp",
+              "RelativeToolTip": "WinsockServer.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T20:20:01.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

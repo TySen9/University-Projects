@@ -1,0 +1,6 @@
+Azure
+Health: 100
+Attack: 10
+Defense: 16
+No weapon equipped.
+Equipped Armour: Bizzarea
