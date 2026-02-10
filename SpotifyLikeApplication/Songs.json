@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Slave II",
+    "artist": "Logic",
+    "duration": 316,
+    "genre": "Rap",
+    "album": "Bobby Tarantino",
+    "releaseYear": 2016
+  },
+  {
+    "title": "Mayonaka no Door~stay with me (classic)",
+    "artist": "Miki Matsubara",
+    "duration": 501,
+    "genre": "City Pop",
+    "album": "Mayonaka no Door~stay with me (classic)",
+    "releaseYear": 2025
+  },
+  {
+    "title": "Beaches",
+    "artist": "beabadoobee",
+    "duration": 350,
+    "genre": "Indie Rock",
+    "album": "This Is How Tomorrow Moves",
+    "releaseYear": 2024
+  },
+  {
+    "title": "MUTT",
+    "artist": "Leon Thomas",
+    "duration": 313,
+    "genre": "R&B",
+    "album": "MUTT",
+    "releaseYear": 2024
+  },
+  {
+    "title": "DANCE NOW",
+    "artist": "Joey Valence & Brae",
+    "duration": 210,
+    "genre": "Hip Hop",
+    "album": "PUNK TACTICS",
+    "releaseYear": 2023
+  },
+  {
+    "title": "tv off (feat. lefty gunplay)",
+    "artist": "Kendrick Lamar",
+    "duration": 341,
+    "genre": "Rap",
+    "album": "GNX",
+    "releaseYear": 2024
+  },
+  {
+    "title": "2ofUs",
+    "artist": "Chase Shakur",
+    "duration": 320,
+    "genre": "R&B",
+    "album": "2ofUs",
+    "releaseYear": 2024
+  },
+  {
+    "title": "Plastic Love",
+    "artist": "Mariya Takeuchi",
+    "duration": 454,
+    "genre": "City Pop",
+    "album": "VARIETY",
+    "releaseYear": 1984
+  },
+  {
+    "title": "Seventh Heaven",
+    "artist": "INOHA",
+    "duration": 354,
+    "genre": "Indie Rock",
+    "album": "ALOHA INOHA",
+    "releaseYear": 2024
+  },
+  {
+    "title": "Surround Sound",
+    "artist": "JID",
+    "duration": 350,
+    "genre": "Hip Hop",
+    "album": "The Forever Story",
+    "releaseYear": 2022
+  }
+]

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NowPlayingQueue">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARBAAAAAAAAAAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>NowPlayingQueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Playlist">
+    <Position X="8.25" Y="1" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="Playlist::Node">
+        <TypeIdentifier>
+          <NewMemberFileName>Playlist.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAEwAAEAAAAwgAEAAAEAAAAAABAAAAkAAAABAA=</HashCode>
+      <FileName>Playlist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Song">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAQAAAAAAAAAAAgQiEAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Song.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
